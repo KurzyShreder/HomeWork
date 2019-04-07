@@ -1,0 +1,22 @@
+body {
+    background-color: lightgrey
+}
+
+#add-card {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: lightgreen;
+    border-radius: 5%;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article {
+    border : 2px solid;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: white;
+}
